@@ -74,7 +74,7 @@ https://www.academia.edu/130275805/Psi_Model_Structural_Framework_and_Scientific
 
 https://zenodo.org/records/15708045
 
-Osf.io/jrav3/
+https://Osf.io/jrav3/
 
 https://telegra.ph/%CE%A8-model-Anny-Taranovoj-06-25
 
