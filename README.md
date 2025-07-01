@@ -80,5 +80,6 @@ To integrate:
 ## 📦 Repository
 
 👉 [github.com/psi-model-by-anna-taranova](https://github.com/psi-model-by-anna-taranova)
+The repository currently contains the Addendum to PCT/IB2025/055633, which expands the original patent disclosure. The main patent document will be added as available.
 
 —
