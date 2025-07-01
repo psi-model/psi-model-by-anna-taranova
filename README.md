@@ -70,10 +70,22 @@ To integrate:
 ---
 
 ## 🔗 Resources
+https://www.academia.edu/130275805/Psi_Model_Structural_Framework_and_Scientific_Validity
 
-- OSF: [osf.io/jrav3](https://osf.io/jrav3/)  
-- Medium article: [Ψ-model](https://medium.com/@carmen.espana.2024/%CF%88-model-how-one-woman-changed-the-logic-of-ai-with-resonance-cd704eaf10ec)  
-- Google Scholar: [citation](https://scholar.google.com/citations?user=4ptXH2cAAAAJ)
+https://zenodo.org/records/15708045
+
+Osf.io/jrav3/
+
+https://telegra.ph/%CE%A8-model-Anny-Taranovoj-06-25
+
+https://humane-visage-020.notion.site/21a07486bfb680a1baacf98f2ec15aed
+
+https://medium.com/@carmen.espana.2024/%CF%88-model-how-one-woman-changed-the-logic-of-ai-with-resonance-cd704eaf10ec
+
+
+
+
+
 
 ---
 
