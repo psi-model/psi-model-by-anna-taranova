@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Ψ-model by Anna Taranova"
+authors:
+  - family-names: Taranova
+    given-names: Anna
+license: "CC-BY-4.0"
+date-released: "2025-06-30"
+doi: "10.5281/zenodo.15708045"
+url: "https://github.com/psi-model/psi-model-by-anna-taranova"
+version: "1.0"
