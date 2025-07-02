@@ -81,6 +81,11 @@ https://telegra.ph/%CE%A8-model-Anny-Taranovoj-06-25
 https://humane-visage-020.notion.site/21a07486bfb680a1baacf98f2ec15aed
 
 https://medium.com/@carmen.espana.2024/%CF%88-model-how-one-woman-changed-the-logic-of-ai-with-resonance-cd704eaf10ec
+## References
+- [Zenodo Archive](https://zenodo.org/records/15708045)
+- [OSF Project](https://osf.io/your_osf_link)
+- [Medium Article](https://medium.com/your_medium_link)
+- [Google Scholar](https://scholar.google.com/citations?user=4ptXH2cAAAAJ)
 
 
 
