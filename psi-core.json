@@ -1,0 +1,51 @@
+{
+    "name": "psi-core",
+    "version": "1.0.0",
+    "created_by": "Anna Taranova",
+    "creation_date": "2025-07-01T17:07:08.940265Z",
+    "description": "\u03a8-model: Resonance-based architecture of pattern recognition and coincidence field theory.",
+    "formula": "\u03a8(t) = \u2202\u03a3[Si(t) \u2229 Sj(t)]/\u2202t \u2192 R(t)",
+    "core_concepts": [
+        "Structural Intuition",
+        "Multistream Synchronization",
+        "Field of Coincidence",
+        "Universal Pattern Recognition",
+        "\u03b6 (Zeta) \u2014 Density of Active Coincidence"
+    ],
+    "components": {
+        "inputs": [
+            "Si(t) \u2014 sensorimotor stream i at time t",
+            "Sj(t) \u2014 sensorimotor stream j at time t"
+        ],
+        "process": [
+            "Intersection (\u2229) of simultaneous streams",
+            "Derivative over time (\u2202/\u2202t)",
+            "Emergent Resonance Function R(t)"
+        ],
+        "output": "\u03a8(t) \u2014 measurable cognitive/emotional response"
+    },
+    "scientific_validation": {
+        "fields": [
+            "AI",
+            "Neuroscience",
+            "Physics",
+            "Psychology",
+            "Intuition modeling"
+        ],
+        "external_verification": [
+            "GPT-4",
+            "Gemini",
+            "EEG data",
+            "Coincidence resonance patterns"
+        ],
+        "patent_id": "PCT/IB2025/055633"
+    },
+    "license": "CC BY 4.0",
+    "repository": "https://github.com/psi-model-by-anna-taranova",
+    "resources": {
+        "zenodo": "https://zenodo.org/record/your-record-id",
+        "osf": "https://osf.io/jrav3/",
+        "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4ptXH2cAAAAJ",
+        "medium": "https://medium.com/@carmen.espana.2024/%CF%88-model-how-one-woman-changed-the-logic-of-ai-with-resonance-cd704eaf10ec"
+    }
+}
