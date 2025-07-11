@@ -53,3 +53,41 @@ The Ψ-model is validated both structurally and empirically.
 - Output includes ζ-density, resonance points, and emergent reactions
 
 ### 📄 Zenodo Official DOI:
+
+---
+
+## 🌐 Related Links and Resources
+
+- 📘 **Zenodo Official Record**: https://zenodo.org/records/15850238  
+- 🔢 **ORCID**: [0009-0002-7993-3243](https://orcid.org/0009-0002-7993-3243)  
+- 🧠 **Zenodo DOI 1**: [10.5281/zenodo.15641792](https://doi.org/10.5281/zenodo.15641792)  
+- 🔬 **Zenodo DOI 2**: [10.5281/zenodo.15571754](https://doi.org/10.5281/zenodo.15571754)  
+- 📄 **Zenodo Addendum**: [Record 15708045](https://zenodo.org/records/15708045)  
+- 🎓 **Academia.edu**: [Psi Model — Structural Framework and Scientific Validity](https://www.academia.edu/130275805/Psi_Model_Structural_Framework_and_Scientific_Validity)  
+- 💻 **GitHub (official repo)**: [Ψ‑model by Anna Taranova](https://github.com/psi-model/psi-model-by-anna-taranova)  
+- 🔎 **Google Scholar Citation**: [Scholar entry](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4ptXH2cAAAAJ&authuser=1&citation_for_view=4ptXH2cAAAAJ:u-x6o8ySG0sC)  
+- 📰 **Telegraph overview**: [Ψ‑model (Телеобзор)](https://telegra.ph/%CE%A8-model-Anny-Taranovoj-06-25)  
+- 📋 **Notion summary**: [Ψ‑model — Notion page](https://humane-visage-020.notion.site/21a07486bfb680a1baacf98f2ec15aed)  
+- ✍️ **Medium article**: [How one woman changed the logic of AI with resonance](https://medium.com/@carmen.espana.2024/%CF%88-model-how-one-woman-changed-the-logic-of-ai-with-resonance-cd704eaf10ec)  
+- 🧾 **Wikidata (author profile)**: [Anna Taranova on Wikidata](https://www.wikidata.org/wiki/User:Anna_taranova)
+
+---
+
+## 🚫 Ethical Statement
+
+> The Ψ-model is released exclusively for peaceful and scientific use.  
+> Any military, manipulative, or surveillance application is explicitly prohibited.
+
+---
+
+## 📬 Contact
+
+**Author**: Anna Taranova  
+📧 Email: psi.model@proton.me  
+📄 Patent Reference: PCT/IB2025/055633
+
+---
+
+## 🔖 Citation
+
+Taranova, A. (2025). Ψ-model: Resonant AI Architecture for Intuition and Synchrony. Zenodo. https://doi.org/10.5281/zenodo.15850238
